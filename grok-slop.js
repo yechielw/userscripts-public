@@ -4,6 +4,8 @@
 // @describe     disable grok auto translate
 // @match        https://x.com/*
 // @grant        none
+// @updateURL    https://raw.githubusercontent.com/yechielw/userscripts-public/refs/heads/master/grok-slop.js
+// @downloadURL  https://raw.githubusercontent.com/yechielw/userscripts-public/refs/heads/master/grok-slop.js
 // ==/UserScript==
 
 (() => {
